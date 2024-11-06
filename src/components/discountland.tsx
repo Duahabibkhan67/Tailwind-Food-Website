@@ -8,7 +8,7 @@ export default function Discount(){
      <h1 data-aos="fade-up"
      data-aos-duration="3000" className="text-4xl  sm:ml-16 my-2 mt-10 text-white"><b>SAVE 20%</b></h1>
      <h1 data-aos="fade-up"
-     data-aos-duration="3000" className="sm:text-7xl sm:ml-16 my-2 text-white font-serif"><b>TODAY'S <b className="text-yellow-500">ASTACKIN</b>DAY</b></h1>
+     data-aos-duration="3000" className="sm:text-7xl sm:ml-16 my-2 text-white font-serif"><b>TODAY&aposS <b className="text-yellow-500">ASTACKIN</b>DAY</b></h1>
      <h1 data-aos="fade-up"
      data-aos-duration="3000" className="text-3xl sm:ml-16 my-4 text-white"><b>GRILLED <b className="text-yellow-500">CHICKEN$59,00</b></b></h1>
      <Link data-aos="fade-up"

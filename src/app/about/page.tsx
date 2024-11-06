@@ -9,9 +9,9 @@ export default function About(){
      data-aos-duration="3000" className="sm:mt-16 gap-4 mx-6">
     <h1 className="text-3xl text-red-600 my-3"><b>About Our Food</b></h1>
     <h1 className="sm:text-6xl py-5 gap-2 "><b>WHERE QUALITY MEET EXCELLENT </b><b className="text-red-700">SERVICE.</b></h1>
-    <p className="my-5">It's the perfect dining exprience where every dish is crafted with fresh,
+    <p className="my-5">It&aposs the perfect dining exprience where every dish is crafted with fresh,
      high-quality exprience quick and efficient service that ensure your food is served fresh 
-     It's the dinning exprience where evey dish is crafted with fresh,high-quality ingredients.
+     It&aposs the dinning exprience where evey dish is crafted with fresh,high-quality ingredients.
     </p>
    </div>
    <div>
